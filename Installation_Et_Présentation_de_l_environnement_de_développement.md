@@ -105,14 +105,14 @@ Dans ce dossier pourra être situé les logs du site.
 
 Dossier propre au tutoriel à ne surtout pas modifier.
 
-## DOSSIER TPL
+## 7/DOSSIER TPL
 
 Dans ce dossier ce trouve un fichier **tpl** pour l'entête et un pour le bas de page ainsi qu'un dossier **pages** qui lui contiendra l'ensemble de nos views (une view = une page internet).On viendra donc mettre dans ce sous-dossier les pages au format **tpl** que l'on veut afficher sur notre site.
 > **ATTENTION** :  
 > Ne mettre que des fichiers tpl contenant de l'HTML et/ou du JavaScript  
 > **En  cas de création d'une nouvelle vue, il faut impérativement que le controlleur associé est le même nom que la vue car le chargement des fichiers se fait dans *index.php*.**  
 
-## DOSSIER WEB
+## 8/DOSSIER WEB
 
 Dans ce dossier on retouve plusieurs sous-dossier qui permettront de stocker les fichiers **css**, **javaScript**, les **images** utiles au projet et les différents **outils** tels que SMARTY.
 
