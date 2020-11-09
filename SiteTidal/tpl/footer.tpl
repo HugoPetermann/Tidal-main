@@ -1,15 +1,12 @@
-<div>
-       <div id="FooterFont">
-              <div id="AdressInformation">
-                     <p>Adresse</p>
-              </div>
-              <div id="ContactInformation">
-                     <p>Numéro de téléphone et mail</p>
-              </div>
-              <div id="SocialNetwork">
-                     <p>lien facebook</p>
-              </div>
+<body>
+
+<footer class="py-5 bg-dark">
+       <div class="container">
+              <p class="m-0 text-center text-white">Adresse</p>
+              <p class="m-0 text-center text-white">Numéro de téléphone et mail</p>
+              <p class="m-0 text-center text-white">lien facebook</p>
        </div>
-</div>
+</footer>
+
 </body>
 </html>
