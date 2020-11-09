@@ -15,10 +15,10 @@
                 {$ImageFond}
                 <div id="NavigationButton">
                         <ul>
-                                <li>ACCUEIL</li>
-                                <li>PANIER</li>
-                                <li>INSCRIPTION</li>
-                                <li>CONNEXION</li>
+                                <li><a href="index.php">ACCUEIL</li>
+                                <li><a href="panier.php">PANIER</li>
+                                <li><a href="inscription.php">INSCRIPTION</li>
+                                <li><a href="connexion.php">CONNEXION</li>
                         </ul>
                 </div>
         </div>
